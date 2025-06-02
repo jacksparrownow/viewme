@@ -2,6 +2,11 @@
   "name": "viewmeasap",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo 'No build needed'"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
   }
 }
