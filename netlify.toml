@@ -1,9 +1,4 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Basic-Auth = "user123:pass456"
-    
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+    Basic-Auth = "ziang:hackme123"
